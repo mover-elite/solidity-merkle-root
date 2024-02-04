@@ -1,6 +1,6 @@
-# Sample Hardhat Project
+# Merkle Tree Drop
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
+This project explore the use of merkle tree for erc20 airdrop
 
 Try running some of the following tasks:
 
